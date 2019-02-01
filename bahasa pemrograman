@@ -19,6 +19,16 @@ Membuat repository baru
 
 6. langkah keenam, klik create a new file
 
-7. jika sudah memiliki proyek yang ingin diletakkan di repository online, buka saja folder project tersebut dengan perintah command line, atau jika belum terbiasa di command line (nanti belajar command line) buka saja folder tersebut menggunakan file exploler dan klik kanan “open terminal/cmder here”. Ada beberapa perintah dasar yang akan digunakan, perintah ini sudah tersedia kok saat membuat repo tadi (lihat gambar atas) :
+7. langkah ketujuh, tuliskan apa yang kalian ingin tuliskan. (contohhnya seperti yang dibawah ini).
+- echo "# latihan1" >> README.md
+- git init
+- git add README.md
+- git commit -m "first commit"
+- git remote add origin https://github.com/muhamadrafly09/latihan1.git
+- git push -u origin master
+- git remote add origin https://github.com/muhamadrafly09/latihan1.git
+- git push -u origin master
+
+8. langkah kedelapan, setelah selesai, silahkan simpan repository anda 
 
 semoga berhasil...
