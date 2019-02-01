@@ -1,0 +1,24 @@
+Pengertian GitHub
+GitHub adalah layanan penginangan web bersama untuk proyek pengembangan perangkat lunak yang menggunakan sistem pengontrol versi Git dan layanan hosting internet. Hal ini banyak digunakan untuk kode komputer. Ini memberikan kontrol akses dan beberapa fitur kolaborasi seperti pelacakan bug, permintaan fitur, manajemen tugas, dan wiki untuk setiap proyek.
+
+Membuat repository baru
+1. langkah pertama, kalian buka github di web
+
+2. langkah kedua, kalian masuk atau login. (bagi yang sudah mempunyai akun GitHub)
+
+3. langkah ketiga, kalian klik start project
+
+4. langkah keempat, anda masukan nama tugas latihan anda di repository name
+   Untuk mengisi, ada beberapa hal yang perlu di perhatikan :
+    • Repository name : nama repository(isi saja dengan nama proyek), akan lebih rapi kalau misalnya nama repository juga di beri jenis pemogramannya juga contohnya “Android/test” atau “js/test”.
+    • Description : deskripsi repository (bisa kisah project dan siapa yang terlibat)
+    • Public/Private : kondisi repository mau di public (di buat umum) atau private(di buat pribadi atau tertutup)
+    •	Intiallize the repository with README : ini adalah isi dokumentasi pada project yang dikerjakan, saya sarankan tidak usah di centang karena mempermudah praktek untuk mengelola git.
+
+5. langkah kelima, klik creat repository
+
+6. langkah keenam, klik create a new file
+
+7. jika sudah memiliki proyek yang ingin diletakkan di repository online, buka saja folder project tersebut dengan perintah command line, atau jika belum terbiasa di command line (nanti belajar command line) buka saja folder tersebut menggunakan file exploler dan klik kanan “open terminal/cmder here”. Ada beberapa perintah dasar yang akan digunakan, perintah ini sudah tersedia kok saat membuat repo tadi (lihat gambar atas) :
+
+semoga berhasil...
